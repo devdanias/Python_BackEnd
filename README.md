@@ -1,7 +1,7 @@
 <p align="center">
 <img width="300" height="300" src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png"></img>
 
-<h3 align="center"> Python Developer Training - DIO</h3>
+<h3 align="center"> Python Backend Developer Training - DIO</h3>
 </p>
 
 ***
