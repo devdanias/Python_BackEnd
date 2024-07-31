@@ -8,10 +8,10 @@
 
 ## Course Information
 
-#### Working hours: 64 hours
+#### Working hours: 35 hours
 
 #### Intermediate level
 
-<p>With great versatility, extensive documentation and numerous libraries make Python the first choice in the data area. However, Python is not limited to data and can be applied to games, web applications, task automation and much more! Learn from scratch the basic syntax of the language to integrations with APIs and practical projects exploring the main frameworks like Flask and Django.</p>
+<p>The Python Backend Developer Training teaches how to build robust and efficient applications with Python. It covers essential fundamentals, such as best practices in Python and interaction with relational databases.</p>
 
 ***
